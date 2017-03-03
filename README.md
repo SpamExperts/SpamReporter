@@ -1,2 +1,3 @@
 # SpamReporter
-Mac OSx Report Spam script
+
+macOS Report Spam script
