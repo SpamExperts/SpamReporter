@@ -1,6 +1,6 @@
 # SpamReporter
 
-OSx Report Spam script
+macOS Report Spam script
 
 
 ## Installation steps
