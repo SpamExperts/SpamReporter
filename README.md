@@ -28,3 +28,5 @@ This should then create a .dmg file that can be used.
 
 Running this file will place a copy of the applescript in the ~/Library/Services folder of the user.
 
+Alternativley simply place [this](https://github.com/SpamExperts/SpamReporter/blob/master/report_spam.workflow) file in the ~/Library/services folder.
+
